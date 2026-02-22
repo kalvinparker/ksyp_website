@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#7be4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#f6fbff"/>
+  <rect x="60" y="60" width="1080" height="600" rx="24" fill="url(#g)" opacity="0.14"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#07203a">
+    <text x="120" y="140" font-size="40" font-weight="700">Example: Sensory Safety — App Mockup</text>
+    <text x="120" y="190" font-size="20" fill="#0b3b58">Interactive assistant — ask how to improve workplace accessibility for neurodiverse individuals.</text>
+  </g>
+  <g transform="translate(120,240)">
+    <rect x="0" y="0" width="960" height="120" rx="12" fill="#ffffff" stroke="#e6eef6"/>
+    <text x="24" y="44" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243b4a">Describe a workplace scenario...</text>
+    <rect x="0" y="150" width="420" height="48" rx="10" fill="#ffffff" stroke="#e6eef6"/>
+    <rect x="500" y="150" width="420" height="48" rx="10" fill="#244b85"/>
+    <text x="560" y="184" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#ffffff">Draft Strategic Response</text>
+  </g>
+  <rect x="80" y="620" width="1040" height="60" rx="12" fill="#ffffff" opacity="0.6"/>
+</svg>
